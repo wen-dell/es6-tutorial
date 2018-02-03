@@ -1,0 +1,1 @@
+console.log('w'.repeat(10));

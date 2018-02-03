@@ -1,0 +1,1 @@
+console.log(String.raw `foo\n${ 42 }bar`);
